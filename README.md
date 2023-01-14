@@ -1,8 +1,10 @@
+### Hi there 🍨
+
 - 👋 Hi, I’m @uguang2003
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in 剪辑，PS
+- 🌱 I’m currently learning springboot
+- 💞️ I’m looking to collaborate on java
+- 📫 How to reach me QQ:2083206548
 
 貌似潘安，体壮心宽  
 学富五车，爱好广泛  
